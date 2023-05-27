@@ -1,0 +1,9 @@
+# yolo dataset path
+train: 
+val: 
+
+# number of classes
+nc: 
+
+# class names
+names: [ ]
